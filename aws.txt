@@ -1,2 +1,4 @@
 Welcome to GIT
 This is second update in aws file
+Hi
+How are you 
